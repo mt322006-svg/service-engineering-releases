@@ -1,12 +1,14 @@
 {
-  "version": "3.2.4",
-  "build": 14,
-  "apk_url": "https://github.com/mt322006-svg/service-engineering-releases/releases/download/v3.2.4/SE-3.2.4.apk",
-  "release_page_url": "https://github.com/mt322006-svg/service-engineering-releases/releases/tag/v3.2.4",
+  "version": "3.2.5",
+  "build": 15,
+  "apk_url": "https://github.com/mt322006-svg/service-engineering-releases/releases/download/v3.2.5/SE-3.2.5.apk",
+  "release_page_url": "https://github.com/mt322006-svg/service-engineering-releases/releases/tag/v3.2.5",
   "mandatory": false,
   "notes": [
-    "Исправлен подвисающий сценарий встроенного обновления на Android.",
-    "Обновление теперь сначала скачивает APK, а затем открывает системную установку.",
-    "Добавлены таймауты и мягкий переход в настройки разрешения при блокировке установки."
+    "Исправлена работа АВР, включая расчёт ночных смен через полночь.",
+    "Внесены технические правки по ПДМ-10 · ТО-250.",
+    "Добавлен интерактивный ПДМ-14 · ТО-250.",
+    "Улучшена логика встроенного обновления приложения.",
+    "Добавлено предупреждение при выходе из бланков."
   ]
 }
