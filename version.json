@@ -1,10 +1,12 @@
 {
-  "version": "3.2.7",
-  "build": 17,
-  "apk_url": "https://github.com/mt322006-svg/service-engineering-releases/releases/download/v3.2.7/SE-3.2.7.apk",
-  "release_page_url": "https://github.com/mt322006-svg/service-engineering-releases/releases/tag/v3.2.7",
+  "version": "3.2.8",
+  "build": 18,
+  "apk_url": "https://github.com/mt322006-svg/service-engineering-releases/releases/download/v3.2.8/SE-3.2.8.apk",
+  "release_page_url": "https://github.com/mt322006-svg/service-engineering-releases/releases/tag/v3.2.8",
   "mandatory": false,
   "notes": [
-    "Исправлено смещение строк в АВР: «Описание выполненных работ» больше не уезжает вниз с 5-й строки."
+    "Ведомость ПДМ в АВР: заказчик, техника по рудникам, гаражный №, гарантия",
+    "УГОК/Учалинский/Муртыкты/Узельга — как на ПК",
+    "Автоподгонка длинного текста заказчика в PDF АВР"
   ]
 }
