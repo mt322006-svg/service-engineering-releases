@@ -1,13 +1,16 @@
 {
+  "version": "1.2.2",
   "release_page_url": "https://github.com/mt322006-svg/service-engineering-releases/releases/tag/win-v1.2.2",
   "setup_url": "https://github.com/mt322006-svg/service-engineering-releases/releases/download/win-v1.2.2/SE-Win-1.2.2-Setup.zip",
-  "build": 5,
-  "version": "1.2.2",
+  "setup_exe_url": "https://github.com/mt322006-svg/service-engineering-releases/releases/download/win-v1.2.2/SE-Win-1.2.2-Setup.exe",
+  "mandatory": false,
   "notes": [
-    "Новые фоны (Цех / Схема / Глубина).",
-    "Установщик Setup.zip для переноса на другой ПК.",
-    "Исправлен заголовок окна Windows (кириллица)."
+    "Повторить последний акт — кнопка в панели.",
+    "Поиск в истории актов.",
+    "Setup.exe — установщик с ярлыком на рабочий стол.",
+    "Лого для всех 4 тем.",
+    "Улучшены фоны и превью в настройках."
   ],
   "zip_url": "https://github.com/mt322006-svg/service-engineering-releases/releases/download/win-v1.2.2/SE-Win-1.2.2.zip",
-  "mandatory": false
+  "build": 5
 }
