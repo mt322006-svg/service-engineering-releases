@@ -1,12 +1,12 @@
 {
-  "version": "3.2.10",
-  "build": 20,
-  "apk_url": "https://github.com/mt322006-svg/service-engineering-releases/releases/download/v3.2.10/SE-3.2.10.apk",
-  "release_page_url": "https://github.com/mt322006-svg/service-engineering-releases/releases/tag/v3.2.10",
+  "version": "3.2.11",
+  "build": 21,
+  "apk_url": "https://github.com/mt322006-svg/service-engineering-releases/releases/download/v3.2.11/SE-3.2.11.apk",
+  "release_page_url": "https://github.com/mt322006-svg/service-engineering-releases/releases/tag/v3.2.11",
   "mandatory": false,
   "notes": [
-    "АВР: исправлена 8-я строка в описании выполненных работ",
-    "ТО-250: формы для ПДМ-17 и ШС-30",
-    "ТО-250 ШС-30: поправлена юстировка нижней части PDF (доп. работы, запчасти, подписи)"
+    "Обновления Android: исправлена фоновая загрузка APK на Android 10+",
+    "При сбое загрузки показывается понятная ошибка",
+    "Уведомления о ходе фоновой загрузки (Android 13+)"
   ]
 }
