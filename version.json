@@ -1,12 +1,12 @@
 {
-  "version": "3.2.9",
-  "build": 19,
-  "apk_url": "https://github.com/mt322006-svg/service-engineering-releases/releases/download/v3.2.9/SE-3.2.9.apk",
-  "release_page_url": "https://github.com/mt322006-svg/service-engineering-releases/releases/tag/v3.2.9",
+  "version": "3.2.10",
+  "build": 20,
+  "apk_url": "https://github.com/mt322006-svg/service-engineering-releases/releases/download/v3.2.10/SE-3.2.10.apk",
+  "release_page_url": "https://github.com/mt322006-svg/service-engineering-releases/releases/tag/v3.2.10",
   "mandatory": false,
   "notes": [
-    "АВР: исправлена 8-я строка в блоке выполненных работ",
+    "АВР: исправлена 8-я строка в описании выполненных работ",
     "ТО-250: формы для ПДМ-17 и ШС-30",
-    "Черновики и PDF для новых бланков ТО-250"
+    "ТО-250 ШС-30: поправлена юстировка нижней части PDF (доп. работы, запчасти, подписи)"
   ]
 }
