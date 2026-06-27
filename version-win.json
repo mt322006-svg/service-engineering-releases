@@ -1,12 +1,12 @@
 {
-  "mandatory": false,
-  "setup_exe_url": "https://github.com/mt322006-svg/service-engineering-releases/releases/download/win-v4.0.0/SE-Win-4.0.0-Setup.exe",
+  "setup_url": "https://github.com/mt322006-svg/service-engineering-releases/releases/download/win-v4.0.0/SE-Win-4.0.0-Setup.zip",
   "zip_url": "https://github.com/mt322006-svg/service-engineering-releases/releases/download/win-v4.0.0/SE-Win-4.0.0.zip",
-  "release_page_url": "https://github.com/mt322006-svg/service-engineering-releases/releases/tag/win-v4.0.0",
-  "build": 45,
-  "version": "4.0.0",
+  "mandatory": false,
   "notes": [
-    "Фон: без фона или свой снимок"
+    "Баннер установки на всех экранах"
   ],
-  "setup_url": "https://github.com/mt322006-svg/service-engineering-releases/releases/download/win-v4.0.0/SE-Win-4.0.0-Setup.zip"
+  "release_page_url": "https://github.com/mt322006-svg/service-engineering-releases/releases/tag/win-v4.0.0",
+  "build": 46,
+  "version": "4.0.0",
+  "setup_exe_url": "https://github.com/mt322006-svg/service-engineering-releases/releases/download/win-v4.0.0/SE-Win-4.0.0-Setup.exe"
 }
