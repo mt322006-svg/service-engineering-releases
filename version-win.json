@@ -1,14 +1,12 @@
 {
   "mandatory": false,
-  "version": "1.2.7",
-  "release_page_url": "https://github.com/mt322006-svg/service-engineering-releases/releases/tag/win-v1.2.7",
-  "build": 11,
+  "setup_exe_url": "https://github.com/mt322006-svg/service-engineering-releases/releases/download/win-v4.0.0/SE-Win-4.0.0-Setup.exe",
+  "zip_url": "https://github.com/mt322006-svg/service-engineering-releases/releases/download/win-v4.0.0/SE-Win-4.0.0.zip",
+  "release_page_url": "https://github.com/mt322006-svg/service-engineering-releases/releases/tag/win-v4.0.0",
+  "build": 45,
+  "version": "4.0.0",
   "notes": [
-    "Чёрный текст в светлой теме — лучше читается",
-    "Быстрое закрытие окна без лишнего сохранения черновика",
-    "Setup.exe для установки и обновления поверх"
+    "Фон: без фона или свой снимок"
   ],
-  "setup_exe_url": "https://github.com/mt322006-svg/service-engineering-releases/releases/download/win-v1.2.7/SE-Win-1.2.7-Setup.exe",
-  "zip_url": "https://github.com/mt322006-svg/service-engineering-releases/releases/download/win-v1.2.7/SE-Win-1.2.7.zip",
-  "setup_url": "https://github.com/mt322006-svg/service-engineering-releases/releases/download/win-v1.2.7/SE-Win-1.2.7-Setup.zip"
+  "setup_url": "https://github.com/mt322006-svg/service-engineering-releases/releases/download/win-v4.0.0/SE-Win-4.0.0-Setup.zip"
 }
