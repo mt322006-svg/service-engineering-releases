@@ -1,12 +1,12 @@
 {
-  "release_page_url": "https://github.com/mt322006-svg/service-engineering-releases/releases/tag/win-v4.0.1",
-  "mandatory": false,
-  "setup_exe_url": "https://github.com/mt322006-svg/service-engineering-releases/releases/download/win-v4.0.1/SE-Win-4.0.1-Setup.exe",
+  "release_page_url": "https://github.com/mt322006-svg/service-engineering-releases/releases/tag/win-v4.0.2",
   "notes": [
-    "Field Lab: отправка АВР в базу, Amvera по умолчанию, поиск кейсов E21/ПДМ-17."
+    "Исправлено: обновление поверх (Setup.exe больше не удаляется до запуска)."
   ],
-  "setup_url": "https://github.com/mt322006-svg/service-engineering-releases/releases/download/win-v4.0.1/SE-Win-4.0.1-Setup.zip",
-  "version": "4.0.1",
-  "zip_url": "https://github.com/mt322006-svg/service-engineering-releases/releases/download/win-v4.0.1/SE-Win-4.0.1.zip",
-  "build": 47
+  "version": "4.0.2",
+  "zip_url": "https://github.com/mt322006-svg/service-engineering-releases/releases/download/win-v4.0.2/SE-Win-4.0.2.zip",
+  "setup_exe_url": "https://github.com/mt322006-svg/service-engineering-releases/releases/download/win-v4.0.2/SE-Win-4.0.2-Setup.exe",
+  "mandatory": false,
+  "build": 48,
+  "setup_url": "https://github.com/mt322006-svg/service-engineering-releases/releases/download/win-v4.0.2/SE-Win-4.0.2-Setup.zip"
 }
