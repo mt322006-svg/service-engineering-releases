@@ -1,14 +1,10 @@
 {
-  "version": "4.1.5",
-  "build": 75,
-  "apk_url": "https://github.com/mt322006-svg/service-engineering-releases/releases/download/v4.1.5/SE-4.1.5.apk",
-  "release_page_url": "https://github.com/mt322006-svg/service-engineering-releases/releases/tag/v4.1.5",
-  "mandatory": false,
-  "notes": [
-    "Стиль интерфейса: New и Classic",
-    "ШС-30: схемы Краткая и Чехия v80",
-    "ПДМ-10: электросхемы 2018 и 2025",
-    "PDF: быстрее листание и зум",
-    "Обновлены зависимости"
-  ]
+    "build":  76,
+    "version":  "4.2.0",
+    "release_page_url":  "https://github.com/mt322006-svg/service-engineering-releases/releases/tag/v4.2.0",
+    "mandatory":  false,
+    "apk_url":  "https://github.com/mt322006-svg/service-engineering-releases/releases/download/v4.2.0/SE-4.2.0.apk",
+    "notes":  [
+                  "Поиск кодов Ferrit с префиксом E (E48)"
+              ]
 }
