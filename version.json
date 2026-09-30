@@ -1,17 +1,17 @@
 {
-  "version": "5.0.3",
-  "build": 83,
-  "apk_url": "https://github.com/mt322006-svg/service-engineering-releases/releases/download/v5.0.3/SE-5.0.3.apk",
-  "apk_sha256": "ff289805069c19cd9be72eebecabcf3a41fc566baee40b12b9184b9e7669fc2b",
-  "apk_size": 248597760,
-  "patch_url": "https://field-lab-dralexan.amvera.io/files/patches/81-to-83.bsdiff",
+  "version": "5.0.4",
+  "build": 84,
+  "apk_url": "https://github.com/mt322006-svg/service-engineering-releases/releases/download/v5.0.4/SE-5.0.4.apk",
+  "apk_sha256": "32039b89d7e32dc079b3885d181672ce8b313ce850c93ad721b4738c12673f5b",
+  "apk_size": 249930802,
+  "patch_url": "https://field-lab-dralexan.amvera.io/files/patches/81-to-84.bsdiff",
   "patch_from_build": 81,
-  "patch_sha256": "7c2e9d46dcc08c7594de32895f4349d35c6ae3dfe29210776532624b555fc468",
-  "patch_size": 4070437,
-  "release_page_url": "https://github.com/mt322006-svg/service-engineering-releases/releases/tag/v5.0.3",
+  "patch_sha256": "1513038ea6efaf3ccfc4cd564f0e46749fbff1c6a6e6eaeec01e92e0cbd326ad",
+  "patch_size": 5979953,
+  "release_page_url": "https://github.com/mt322006-svg/service-engineering-releases/releases/tag/v5.0.4",
   "mandatory": false,
   "notes": [
-    "Термодатчики собраны в один раздел",
-    "Короткое обновление есть для сборки 81, в нём все правки до 5.0.3. С другой сборки скачается полный пакет, это нормально: можно свернуть приложение, загрузка продолжится."
+    "На главном экране раздел «Документы»: вкладыши к эксплуатационной документации, ПДМ от 21.05.2025 и ШС от 26.01.2026",
+    "Короткое обновление есть для сборки 81, в нём все правки до 5.0.4. С другой сборки скачается полный пакет, это нормально: можно свернуть приложение, загрузка продолжится."
   ]
 }
