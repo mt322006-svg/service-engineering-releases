@@ -4,14 +4,15 @@
   "apk_url": "https://github.com/mt322006-svg/service-engineering-releases/releases/download/v5.0.3/SE-5.0.3.apk",
   "apk_sha256": "ff289805069c19cd9be72eebecabcf3a41fc566baee40b12b9184b9e7669fc2b",
   "apk_size": 248597760,
-  "patch_url": "https://field-lab-dralexan.amvera.io/files/patches/82-to-83.bsdiff",
-  "patch_from_build": 82,
-  "patch_sha256": "0974e854a5e3d824620c66dae1fb13d614d3771a9b47505694271dd345da5f46",
-  "patch_size": 4060324,
+  "patch_url": "https://field-lab-dralexan.amvera.io/files/patches/81-to-83.bsdiff",
+  "patch_from_build": 81,
+  "patch_sha256": "7c2e9d46dcc08c7594de32895f4349d35c6ae3dfe29210776532624b555fc468",
+  "patch_size": 4070437,
   "release_page_url": "https://github.com/mt322006-svg/service-engineering-releases/releases/tag/v5.0.3",
   "mandatory": false,
   "notes": [
     "Термодатчики собраны в один раздел",
-    "В тетрисе снова видны кнопки"
+    "В тетрисе снова видны кнопки",
+    "Короткое обновление есть для сборки 81, в нём все правки до 5.0.3. С другой сборки скачается полный пакет, это нормально: можно свернуть приложение, загрузка продолжится."
   ]
 }
