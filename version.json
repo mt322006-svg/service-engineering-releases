@@ -1,17 +1,17 @@
 {
-  "version": "5.0.2",
-  "build": 82,
-  "apk_url": "https://github.com/mt322006-svg/service-engineering-releases/releases/download/v5.0.2/SE-5.0.2.apk",
-  "apk_sha256": "3c3920a968c6675d03301727da36e7ab98ad1b88d855a4d2ce88db29c3ec946e",
+  "version": "5.0.3",
+  "build": 83,
+  "apk_url": "https://github.com/mt322006-svg/service-engineering-releases/releases/download/v5.0.3/SE-5.0.3.apk",
+  "apk_sha256": "ff289805069c19cd9be72eebecabcf3a41fc566baee40b12b9184b9e7669fc2b",
   "apk_size": 248597760,
-  "patch_url": "https://field-lab-dralexan.amvera.io/files/patches/81-to-82.bsdiff",
-  "patch_from_build": 81,
-  "patch_sha256": "8db75640d7ed32f65eed75bc0a4bfdefbfe80f90a35059eb12d1826307a82829",
-  "patch_size": 226390,
-  "release_page_url": "https://github.com/mt322006-svg/service-engineering-releases/releases/tag/v5.0.2",
+  "patch_url": "https://field-lab-dralexan.amvera.io/files/patches/82-to-83.bsdiff",
+  "patch_from_build": 82,
+  "patch_sha256": "0974e854a5e3d824620c66dae1fb13d614d3771a9b47505694271dd345da5f46",
+  "patch_size": 4060324,
+  "release_page_url": "https://github.com/mt322006-svg/service-engineering-releases/releases/tag/v5.0.3",
   "mandatory": false,
   "notes": [
-    "Часы в шапке чуть крупнее",
-    "Приветствие: смена на связи"
+    "Термодатчики собраны в один раздел",
+    "В тетрисе снова видны кнопки"
   ]
 }
