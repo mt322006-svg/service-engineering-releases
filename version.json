@@ -1,17 +1,17 @@
 {
-  "version": "5.0.4",
-  "build": 84,
-  "apk_url": "https://github.com/mt322006-svg/service-engineering-releases/releases/download/v5.0.4/SE-5.0.4.apk",
-  "apk_sha256": "32039b89d7e32dc079b3885d181672ce8b313ce850c93ad721b4738c12673f5b",
-  "apk_size": 249930802,
-  "patch_url": "https://field-lab-dralexan.amvera.io/files/patches/81-to-84.bsdiff",
-  "patch_from_build": 81,
-  "patch_sha256": "1513038ea6efaf3ccfc4cd564f0e46749fbff1c6a6e6eaeec01e92e0cbd326ad",
-  "patch_size": 5979953,
-  "release_page_url": "https://github.com/mt322006-svg/service-engineering-releases/releases/tag/v5.0.4",
+  "version": "5.0.5",
+  "build": 85,
+  "apk_url": "https://github.com/mt322006-svg/service-engineering-releases/releases/download/v5.0.5/SE-5.0.5.apk",
+  "apk_sha256": "be9a2316c67ec68a9e00ab3111daa6125615be95966ae2a5e36cba04f768062d",
+  "apk_size": 249947186,
+  "patch_url": "https://github.com/mt322006-svg/service-engineering-releases/releases/download/v5.0.5/84-to-85.bsdiff",
+  "patch_from_build": 84,
+  "patch_sha256": "1b81b522e47fd9ebece407c219056ccbb0328532c76a43317ad13664e9ec8aae",
+  "patch_size": 5272495,
+  "release_page_url": "https://github.com/mt322006-svg/service-engineering-releases/releases/tag/v5.0.5",
   "mandatory": false,
   "notes": [
-    "На главном экране раздел «Документы»: вкладыши к эксплуатационной документации, ПДМ от 21.05.2025 и ШС от 26.01.2026",
-    "Короткое обновление есть для сборки 81, в нём все правки до 5.0.4. С другой сборки скачается полный пакет, это нормально: можно свернуть приложение, загрузка продолжится."
+    "На открытой схеме нельзя сделать снимок экрана и запись с экрана. Чек-листы и инструкции по-прежнему можно снимать.",
+    "Короткое обновление есть для сборки 84. С другой сборки скачается полный пакет, это нормально: можно свернуть приложение, загрузка продолжится."
   ]
 }
