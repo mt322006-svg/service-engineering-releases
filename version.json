@@ -1,17 +1,18 @@
 {
-  "version": "5.0.5",
-  "build": 85,
-  "apk_url": "https://github.com/mt322006-svg/service-engineering-releases/releases/download/v5.0.5/SE-5.0.5.apk",
-  "apk_sha256": "be9a2316c67ec68a9e00ab3111daa6125615be95966ae2a5e36cba04f768062d",
-  "apk_size": 249947186,
-  "patch_url": "https://github.com/mt322006-svg/service-engineering-releases/releases/download/v5.0.5/84-to-85.bsdiff",
-  "patch_from_build": 84,
-  "patch_sha256": "1b81b522e47fd9ebece407c219056ccbb0328532c76a43317ad13664e9ec8aae",
-  "patch_size": 5272495,
-  "release_page_url": "https://github.com/mt322006-svg/service-engineering-releases/releases/tag/v5.0.5",
+  "version": "5.0.6",
+  "build": 86,
+  "apk_url": "https://github.com/mt322006-svg/service-engineering-releases/releases/download/v5.0.6/SE-5.0.6.apk",
+  "apk_sha256": "bd70dd5012b6bb99012333567c1b57aa7426936c7673f99e4f196d9614e8a10e",
+  "apk_size": 249947206,
+  "patch_url": "https://github.com/mt322006-svg/service-engineering-releases/releases/download/v5.0.6/85-to-86.bsdiff",
+  "patch_from_build": 85,
+  "patch_sha256": "ce6ab5b9caecc6bb43d62c4e0a3b83cb1d1e520eaa62db9822f2572d1517712b",
+  "patch_size": 655256,
+  "release_page_url": "https://github.com/mt322006-svg/service-engineering-releases/releases/tag/v5.0.6",
   "mandatory": false,
   "notes": [
+    "Приложение ходит на новый сервер Field Lab. Активация снова работает.",
     "На открытой схеме нельзя сделать снимок экрана и запись с экрана. Чек-листы и инструкции по-прежнему можно снимать.",
-    "Короткое обновление есть для сборки 84. С другой сборки скачается полный пакет, это нормально: можно свернуть приложение, загрузка продолжится."
+    "Короткое обновление есть для сборки 85. С другой сборки скачается полный пакет, это нормально: можно свернуть приложение, загрузка продолжится."
   ]
 }
