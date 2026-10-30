@@ -1,18 +1,19 @@
 {
-  "version": "5.0.6",
-  "build": 86,
-  "apk_url": "https://github.com/mt322006-svg/service-engineering-releases/releases/download/v5.0.6/SE-5.0.6.apk",
-  "apk_sha256": "bd70dd5012b6bb99012333567c1b57aa7426936c7673f99e4f196d9614e8a10e",
-  "apk_size": 249947206,
-  "patch_url": "https://github.com/mt322006-svg/service-engineering-releases/releases/download/v5.0.6/85-to-86.bsdiff",
-  "patch_from_build": 85,
-  "patch_sha256": "ce6ab5b9caecc6bb43d62c4e0a3b83cb1d1e520eaa62db9822f2572d1517712b",
-  "patch_size": 655256,
-  "release_page_url": "https://github.com/mt322006-svg/service-engineering-releases/releases/tag/v5.0.6",
+  "version": "5.0.7",
+  "build": 87,
+  "apk_url": "https://github.com/mt322006-svg/service-engineering-releases/releases/download/v5.0.7/SE-5.0.7.apk",
+  "apk_sha256": "905f50c2c2229bd69303f96a32e2f9311589280c5860443566f5200efcc3bcca",
+  "apk_size": 242992250,
+  "patch_url": "https://github.com/mt322006-svg/service-engineering-releases/releases/download/v5.0.7/86-to-87.bsdiff",
+  "patch_from_build": 86,
+  "patch_sha256": "e817256e2914d27ea3ef70cfb5ea6e33c755caafaf14175b2b900f043c2d06c8",
+  "patch_size": 16886807,
+  "release_page_url": "https://github.com/mt322006-svg/service-engineering-releases/releases/tag/v5.0.7",
   "mandatory": false,
   "notes": [
-    "Приложение ходит на новый сервер Field Lab. Активация снова работает.",
-    "На открытой схеме нельзя сделать снимок экрана и запись с экрана. Чек-листы и инструкции по-прежнему можно снимать.",
-    "Короткое обновление есть для сборки 85. С другой сборки скачается полный пакет, это нормально: можно свернуть приложение, загрузка продолжится."
+    "ПДМ-10: добавлена пошаговая диагностика с отдельными маршрутами «Питание», «Зажигание» и «Запуск».",
+    "Электросхемы ПДМ-10 редакций 2018 и 2025 сохранены отдельными документами.",
+    "«Чат Сервисников» удалён с главного экрана, фоновые уведомления чата отключены.",
+    "Короткое обновление доступно для установленной сборки 86."
   ]
 }
