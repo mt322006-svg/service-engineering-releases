@@ -1,19 +1,19 @@
 {
-  "version": "5.0.7",
-  "build": 87,
-  "apk_url": "https://github.com/mt322006-svg/service-engineering-releases/releases/download/v5.0.7/SE-5.0.7.apk",
-  "apk_sha256": "905f50c2c2229bd69303f96a32e2f9311589280c5860443566f5200efcc3bcca",
-  "apk_size": 242992250,
-  "patch_url": "https://github.com/mt322006-svg/service-engineering-releases/releases/download/v5.0.7/86-to-87.bsdiff",
-  "patch_from_build": 86,
-  "patch_sha256": "e817256e2914d27ea3ef70cfb5ea6e33c755caafaf14175b2b900f043c2d06c8",
-  "patch_size": 16886807,
-  "release_page_url": "https://github.com/mt322006-svg/service-engineering-releases/releases/tag/v5.0.7",
+  "version": "5.0.8",
+  "build": 88,
+  "apk_url": "https://github.com/mt322006-svg/service-engineering-releases/releases/download/v5.0.8/SE-5.0.8.apk",
+  "apk_sha256": "adcdf0423315eb9016308a4dcc054b7752431d7296a9eccc8816250beff0e4a6",
+  "apk_size": 236917026,
+  "patch_url": "https://github.com/mt322006-svg/service-engineering-releases/releases/download/v5.0.8/87-to-88.bsdiff",
+  "patch_from_build": 87,
+  "patch_sha256": "9c9b9538889c52cc386e8d15d23f89c5a74520ced2c2a4b61e2abdc70fc404d0",
+  "patch_size": 6315917,
+  "release_page_url": "https://github.com/mt322006-svg/service-engineering-releases/releases/tag/v5.0.8",
   "mandatory": false,
   "notes": [
-    "ПДМ-10: добавлена пошаговая диагностика с отдельными маршрутами «Питание», «Зажигание» и «Запуск».",
-    "Электросхемы ПДМ-10 редакций 2018 и 2025 сохранены отдельными документами.",
-    "«Чат Сервисников» удалён с главного экрана, фоновые уведомления чата отключены.",
-    "Короткое обновление доступно для установленной сборки 86."
+    "ПДМ-10: добавлены журнал, фактические результаты и автосохранение незавершённой пошаговой диагностики.",
+    "Перед диагностикой обязательно выбирается ревизия электросхемы 2018 или 2025; данные разных ревизий не смешиваются.",
+    "Срок запоминания PIN увеличен до семи суток, в полевом акте исправлена отметка «ТО».",
+    "Короткое обновление доступно для установленной сборки 87."
   ]
 }
