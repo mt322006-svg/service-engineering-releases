@@ -1,21 +1,18 @@
 {
-  "version": "5.0.8",
-  "build": 88,
-  "apk_url": "https://github.com/mt322006-svg/service-engineering-releases/releases/download/v5.0.8/SE-5.0.8.apk",
-  "apk_sha256": "adcdf0423315eb9016308a4dcc054b7752431d7296a9eccc8816250beff0e4a6",
-  "apk_size": 236917026,
-  "patch_url": "https://github.com/mt322006-svg/service-engineering-releases/releases/download/v5.0.8/87-to-88.bsdiff",
-  "patch_from_build": 87,
-  "patch_sha256": "9c9b9538889c52cc386e8d15d23f89c5a74520ced2c2a4b61e2abdc70fc404d0",
-  "patch_size": 6315917,
-  "release_page_url": "https://github.com/mt322006-svg/service-engineering-releases/releases/tag/v5.0.8",
-  "mandatory": false,
+  "version": "5.0.9",
+  "build": 89,
+  "apk_url": "https://github.com/mt322006-svg/service-engineering-releases/releases/download/v5.0.9/SE-5.0.9.apk",
+  "apk_sha256": "079ffcec899d806e7b2b40503c949baec3c4d4e3f7a78221937b2726c463b664",
+  "apk_size": 243262934,
+  "patch_url": "https://github.com/mt322006-svg/service-engineering-releases/releases/download/v5.0.9/88-to-89.bsdiff",
+  "patch_from_build": 88,
+  "patch_sha256": "df0c68812feecb19f5221bf4ac8bfeb414393fc27357ba18a85f8640999f6236",
+  "patch_size": 8486628,
+  "release_page_url": "https://github.com/mt322006-svg/service-engineering-releases/releases/tag/v5.0.9",
+  "mandatory": true,
   "notes": [
-    "Улучшена пошаговая диагностика ПДМ-10.",
-    "Добавлены сохранение незавершённой диагностики и журнал выполненных проверок.",
-    "Перед началом диагностики можно выбрать соответствующую ревизию электросхемы ПДМ-10.",
-    "В полевом акте исправлена отметка «ТО».",
-    "Срок запоминания PIN-кода увеличен до семи дней.",
-    "Для предыдущей версии доступно короткое обновление."
+    "Исправлена пошаговая диагностика запуска ПДМ-10: разделены кнопка включения системы S21 и кнопка запуска двигателя S20.",
+    "Добавлена проверка передней панели переключателей SW_L и линий KS13/KS07.",
+    "Для версии 5.0.8 доступно короткое обязательное обновление."
   ]
 }
