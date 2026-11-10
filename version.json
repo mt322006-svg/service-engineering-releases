@@ -1,19 +1,20 @@
 {
-  "version": "5.0.10",
-  "build": 90,
-  "apk_url": "https://github.com/mt322006-svg/service-engineering-releases/releases/download/v5.0.10/SE-5.0.10.apk",
-  "apk_sha256": "77c1c0e27b5338b291ff04918b1821309a3315a6b599291beaf95bdc76b0cd87",
-  "apk_size": 239661349,
-  "patch_url": "https://github.com/mt322006-svg/service-engineering-releases/releases/download/v5.0.10/89-to-90.bsdiff",
-  "patch_from_build": 89,
-  "patch_sha256": "5af63a2731af23729c62c3788a71dba415cf16ffdfe215a761246557dd1ea8be",
-  "patch_size": 10092806,
-  "release_page_url": "https://github.com/mt322006-svg/service-engineering-releases/releases/tag/v5.0.10",
+  "version": "5.0.11",
+  "build": 91,
+  "apk_url": "https://github.com/mt322006-svg/service-engineering-releases/releases/download/v5.0.11/SE-5.0.11.apk",
+  "apk_sha256": "684a0fd5976039a6c16cc06ca93e505dbc52cc624df43ce3f1a1a0aaef1b5b75",
+  "apk_size": 308536544,
+  "patch_url": "https://github.com/mt322006-svg/service-engineering-releases/releases/download/v5.0.11/90-to-91.bsdiff",
+  "patch_from_build": 90,
+  "patch_sha256": "56b5662061c6ed7258843c537f7d4e2c7fe42c08923f0bab56e64628c102a674",
+  "patch_size": 81607749,
+  "release_page_url": "https://github.com/mt322006-svg/service-engineering-releases/releases/tag/v5.0.11",
   "mandatory": false,
   "notes": [
-    "Добавлены четыре пошаговых маршрута диагностики для ПДМ-14, ПДМ-17 и ШС-30: «Питание», «Зажигание», «Запуск» и «Зарядка».",
-    "Убраны старые дублирующие карточки неисправностей. Электрические схемы и расположение узлов сохранены.",
-    "Установлена новая видеозаставка запуска с безопасным переходом на главный экран.",
-    "Исправлена загрузка обновлений: кнопка реагирует сразу, а состояние загрузки отображается в приложении."
+    "Добавлен умный поиск запчастей ПДМ-10 по названию, обозначению и каталожному номеру с иллюстрациями и правильным текстом для полевого акта.",
+    "На гидравлической и обеих электрических схемах ПДМ-10 появились активные обозначения с переходом к описанию, каталогу, взрыв-схеме и подтверждённому расположению на машине.",
+    "Для ПДМ-14 и ПДМ-17 добавлены сопротивления соленоидов, диагностические диапазоны ±10% и переходы к нужным листам электросхем.",
+    "Коды неисправностей исключены из общего справочника: теперь они будут привязываться только к конкретной машине.",
+    "При загрузке обновления теперь отображаются реальный процент, объём и текущий этап установки."
   ]
 }
