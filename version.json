@@ -1,16 +1,21 @@
 {
-  "version": "5.0.14",
-  "build": 95,
-  "apk_url": "https://github.com/mt322006-svg/service-engineering-releases/releases/download/v5.0.14/SE-5.0.14.apk",
-  "apk_sha256": "c9bdf965dbe5a7c6d12199291a87324ab920053d731a887314525c1243489200",
-  "apk_size": 450312034,
-  "release_page_url": "https://github.com/mt322006-svg/service-engineering-releases/releases/tag/v5.0.14",
+  "version": "5.0.15",
+  "build": 96,
+  "apk_url": "https://github.com/mt322006-svg/service-engineering-releases/releases/download/v5.0.15/SE-5.0.15.apk",
+  "apk_sha256": "d657e7d8079370fe922343f3507c21695bf87b905f32ba3f138a4f7153648d02",
+  "apk_size": 450552624,
+  "release_page_url": "https://github.com/mt322006-svg/service-engineering-releases/releases/tag/v5.0.15",
   "mandatory": false,
   "notes": [
-    "Исправлена ошибка предпросмотра АВР."
+    "Уточнена пошаговая диагностика питания, зажигания, запуска и зарядки для ПДМ-10, ПДМ-14, ПДМ-17 и ШС-30.",
+    "Добавлены действия при отклонениях и возможность указать другой результат проверки.",
+    "Уточнены рекомендации по кодам ошибок: SD-карта, связь, датчики и блоки управления проверяются по соответствующим маршрутам.",
+    "Упрощены карточки ШС-30 и убраны инструкции с недоступным сервисникам заводским оборудованием.",
+    "Предпросмотр АВР и карты ТО открывается целым листом.",
+    "Раздел «Ремонт и АВР» отмечен как находящийся в разработке, незавершённые функции недоступны."
   ],
-  "patch_url": "https://github.com/mt322006-svg/service-engineering-releases/releases/download/v5.0.14/94-to-95.bsdiff",
-  "patch_from_build": 94,
-  "patch_sha256": "21d1cb2cf4ae7d297a9715899ced45b39f3582e825fed2021bac35c59bca0bce",
-  "patch_size": 2485995
+  "patch_url": "https://github.com/mt322006-svg/service-engineering-releases/releases/download/v5.0.15/95-to-96.bsdiff",
+  "patch_from_build": 95,
+  "patch_sha256": "6ac8c8b443c1ac0e8f321bdc71358da9100d87d1815ce037a89a88201e020a20",
+  "patch_size": 2329605
 }
