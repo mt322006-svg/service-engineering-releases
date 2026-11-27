@@ -1,21 +1,18 @@
 {
-  "version": "5.0.15",
-  "build": 96,
-  "apk_url": "https://github.com/mt322006-svg/service-engineering-releases/releases/download/v5.0.15/SE-5.0.15.apk",
-  "apk_sha256": "d657e7d8079370fe922343f3507c21695bf87b905f32ba3f138a4f7153648d02",
-  "apk_size": 450552624,
-  "release_page_url": "https://github.com/mt322006-svg/service-engineering-releases/releases/tag/v5.0.15",
+  "version": "6.0.0",
+  "build": 97,
+  "apk_url": "https://github.com/mt322006-svg/service-engineering-releases/releases/download/v6.0.0/SE-6.0.0.apk",
+  "apk_sha256": "6096d4fe34130359bbde12a12d0ea45ff23841cde1547fd0547075bb994434b7",
+  "apk_size": 457219880,
+  "release_page_url": "https://github.com/mt322006-svg/service-engineering-releases/releases/tag/v6.0.0",
   "mandatory": false,
   "notes": [
-    "Уточнена пошаговая диагностика питания, зажигания, запуска и зарядки для ПДМ-10, ПДМ-14, ПДМ-17 и ШС-30.",
-    "Добавлены действия при отклонениях и возможность указать другой результат проверки.",
-    "Уточнены рекомендации по кодам ошибок: SD-карта, связь, датчики и блоки управления проверяются по соответствующим маршрутам.",
-    "Упрощены карточки ШС-30 и убраны инструкции с недоступным сервисникам заводским оборудованием.",
-    "Предпросмотр АВР и карты ТО открывается целым листом.",
-    "Раздел «Ремонт и АВР» отмечен как находящийся в разработке, незавершённые функции недоступны."
+    "Обновлена заставка: знакомая эмблема СИ переходит в FT / MT Edition с эффектом помех и плавным появлением главного экрана.",
+    "При нажатии на служебное уведомление открывается отдельное окно с полным текстом сообщения.",
+    "Для версии 5.0.15 (сборка 96) доступно короткое обновление. Удалять приложение не нужно."
   ],
-  "patch_url": "https://github.com/mt322006-svg/service-engineering-releases/releases/download/v5.0.15/95-to-96.bsdiff",
-  "patch_from_build": 95,
-  "patch_sha256": "6ac8c8b443c1ac0e8f321bdc71358da9100d87d1815ce037a89a88201e020a20",
-  "patch_size": 2329605
+  "patch_url": "https://github.com/mt322006-svg/service-engineering-releases/releases/download/v6.0.0/96-to-97.bsdiff",
+  "patch_from_build": 96,
+  "patch_sha256": "4dd55f222afbe51128e2953de457c5d122bee6f50d563451f11d92a0cd366a72",
+  "patch_size": 9734399
 }
